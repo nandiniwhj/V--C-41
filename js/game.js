@@ -121,7 +121,7 @@ class Game{
         
          
 
-    }
+    
 
     end(){
        console.log("Game Ended");
